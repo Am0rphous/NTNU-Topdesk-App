@@ -2,7 +2,10 @@
 
 
 
-To build:
+To build yourself:
 ````
-nativefier --name "hjelp" "https://hjelp.ntnu.no/" --tray start-in-tray
+#mac: brew install nativefier
+nativefier --name "hjelp" "https://hjelp.ntnu.no/" --tray --portable
 ````
+
+https://github.com/nativefier/nativefier/blob/master/API.md#portable
