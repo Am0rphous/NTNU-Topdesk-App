@@ -33,3 +33,4 @@ Packaging... This will take a few seconds, maybe minutes if the requested Electr
 Finalizing build...
 App built to /Users/Username/Downloads/myWebApp/hjelp-darwin-x64, move to wherever it makes sense for you and run the app bundle.
 ````
+4. In my case I opened the executable located in folder `myWebApp/hjelp-darwin-x64/` which was named `hjelp`. Cheers!
