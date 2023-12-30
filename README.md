@@ -15,7 +15,7 @@ brew install nativefier    #for macOS
 ````
 nativefier --name "hjelp" "https://hjelp.ntnu.no/" --tray --portable
 ````
-3. Expected output may look like this:
+3. Expected output from the command above looks like this:
 ````
     Hi! Nativefier is minimally maintained these days, and needs more hands.
     If you have the time & motivation, help with bugfixes and maintenance is VERY welcome.
