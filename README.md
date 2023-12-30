@@ -15,4 +15,21 @@ brew install nativefier    #for macOS
 ````
 nativefier --name "hjelp" "https://hjelp.ntnu.no/" --tray --portable
 ````
+3. Expected output may look like this:
+````
+    Hi! Nativefier is minimally maintained these days, and needs more hands.
+    If you have the time & motivation, help with bugfixes and maintenance is VERY welcome.
+    Please go to https://github.com/nativefier/nativefier and help how you can. Thanks.
 
+Processing options...
+Building app as portable. SECURITY WARNING: all data accumulated in the app folder after running it (including login information, cache, cookies) will be saved in the app folder. If this app is then shared with others, THEY WILL HAVE THAT ACCUMULATED DATA, POTENTIALLY INCLUDING ACCESS TO ANY ACCOUNTS YOU LOGGED INTO.
+
+Preparing Electron app...
+
+Converting icons...
+
+Packaging... This will take a few seconds, maybe minutes if the requested Electron isn't cached yet...
+
+Finalizing build...
+App built to /Users/Username/Downloads/myWebApp/hjelp-darwin-x64, move to wherever it makes sense for you and run the app bundle.
+````
